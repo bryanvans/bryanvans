@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Bryan - aka [Bryan Evans](https://www.instagram.com/bryann_xyz/?utm_source=ig_web_button_share_sheet) 👋
+## About me:
+- 📘 I’m currently study at IT Del
+- 🌱 I’m currently learning UI Design 
+- 👯 I’m looking to collaborate on UI Design and data automation projects.
+- 🤔 I’m looking for suggestions for UI design project ideas.
+- 💬 Ask me about anything
+- 📫 How to reach me: bryanaja92@gmail.com
 
-<!--
-**bryanvans/bryanvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Institut Teknologi Del](https://www.del.ac.id/) | Bachelor's degree in Information Systems | Sumut `2022-2026`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### 2. [SMAN 22 Kab.Tangerang](https://sman22kabtng.sch.id/) | MIPA | Tangerang `2019-2022`
+   - Scout Special Forces 
+
+
+### Connect with me:
+
+[![website](./img/instagram-light.svg)](https://www.instagram.com/bryann_xyz/?utm_source=ig_web_button_share_sheet#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/bryann_xyz/?utm_source=ig_web_button_share_sheet#gh-dark-mode-only)
+
+
