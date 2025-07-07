@@ -1,4 +1,4 @@
-# Hi there, I'm Bryan - [Bryan Evans](https://www.instagram.com/bryann_xyz/?utm_source=ig_web_button_share_sheet) 👋:smile:
+# Hi there, I'm Bryan - [Bryan Evans](https://www.instagram.com/bryann_xyz/?utm_source=ig_web_button_share_sheet) 👋
 ## About me:
 - 📘 I’m currently study at IT Del
 - 🌱 I’m currently learning UI Design 
