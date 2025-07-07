@@ -12,8 +12,6 @@
 #### 1. [Institut Teknologi Del](https://www.del.ac.id/) | Bachelor's degree in Information Systems | Sumut `2022-2026`
 
  #### 2. [SMAN 22 Kab.Tangerang](https://sman22kabtng.sch.id/) | MIPA | Tangerang `2019-2022`
-   - Scout Special Forces 
-
 
 ### Connect with me:
 
